@@ -1,1 +1,1 @@
-script that change current user to user betty
+script to change hello to user betty
