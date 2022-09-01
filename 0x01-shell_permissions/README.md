@@ -1,1 +1,1 @@
-script to change hello to user betty
+script that change the file hello to user betty
