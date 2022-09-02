@@ -1,1 +1,1 @@
-script that adds execute permission to all subdirectories subdirectories of the current directory for the owner the group owner and all other users
+script that set mode of the file hello the same as ollehs mode
