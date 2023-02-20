@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+#bash scrip that displays listening ports That only shows listening socket and pid adress
 netstat -lpn
